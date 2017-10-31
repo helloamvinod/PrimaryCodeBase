@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="VISUAL---myPBS-Home-default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---Default" transform="translate(-170.000000, -867.000000)">
+            <g id="Resources-&amp;-info" transform="translate(0.000000, 632.000000)">
+                <g id="btn" transform="translate(150.000000, 222.000000)">
+                    <g id="icon" transform="translate(20.000000, 13.000000)">
+                        <circle id="Oval-3" stroke="#719d0e" stroke-width="2" cx="12" cy="12" r="11"></circle>
+                        <rect id="Rectangle-7" fill="#719d0e" x="7.38461538" y="11.0769231" width="9.23076923" height="1.84615385"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
